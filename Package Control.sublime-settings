@@ -2,6 +2,10 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"BracketHighlighter",
+		"Emmet",
+		"ERB Snippets",
+		"GitGutter"
 	],
 	"installed_packages":
 	[

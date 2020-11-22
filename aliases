@@ -17,3 +17,7 @@ alias vc="code-insiders ."
 # Others
 alias wip="SKIP=ALL git commit -m 'wip'"
 alias py="source activate skello_python"
+
+# git
+alias pmaster="git co master && git pull origin master --rebase"
+alias pstaging="git co staging && git pull origin staging --rebase"
