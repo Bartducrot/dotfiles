@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = barthelemy.ducrot@hei.fr
+	email = cd ~/code/$GITHUB_USERNAME/dotfiles
 	name = Barthelemy Ducrot
